@@ -1,0 +1,6 @@
+classes= 81
+train=cfg/trainvalno5k-h.txt
+valid=cfg/5k-h.txt
+names=cfg/coco-h.names
+backup=backup/
+eval=coco

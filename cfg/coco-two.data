@@ -1,0 +1,6 @@
+classes= 2
+train=cfg/trainvalno5k-two.txt
+valid=cfg/5k-two.txt
+names=cfg/coco-two.names
+backup=backup/
+eval=coco
